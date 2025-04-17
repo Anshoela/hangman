@@ -1,0 +1,12 @@
+queue=[]
+input(queue.append(''))
+input(queue.append(''))
+input(queue.append(''))
+print("Initial queue")
+print(queue)
+print("/n elements dequeues frim queue")
+print(queue.pop(0))
+print(queue.pop(0))
+print(queue.pop(0))
+print("/n Queue after removing elemts")
+print(queue)
